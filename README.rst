@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fscikit-learn0.24.2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fscikit-learn0.24.2?ref=badge_shield)
+
 .. -*- mode: rst -*-
 
 |Azure|_ |Travis|_ |Codecov|_ |CircleCI|_ |Nightly wheels|_ |Black|_ |PythonVersion|_ |PyPi|_ |DOI|_ |Benchmark|_
@@ -202,3 +204,7 @@ Citation
 ~~~~~~~~
 
 If you use scikit-learn in a scientific publication, we would appreciate citations: https://scikit-learn.org/stable/about.html#citing-scikit-learn
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksshin-kaist%2Fscikit-learn0.24.2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksshin-kaist%2Fscikit-learn0.24.2?ref=badge_large)
